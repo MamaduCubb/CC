@@ -1,0 +1,6 @@
+{
+  "name": "Cour des comptes Sénégal - Guide Note de Synthèse",
+  "description": "Plateforme pédagogique experte de préparation au concours de la Cour des comptes du Sénégal : transcription du cours, méthodologie de la note de synthèse et de la lettre de transmission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
